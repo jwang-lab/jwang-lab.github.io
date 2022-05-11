@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Team"
+title: "Wang Lab - Team"
 layout: gridlay
-excerpt: "Sanders Lab: Team members"
+excerpt: "Wang Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -193,8 +193,8 @@ permalink: /team/
 
 ---
 
-## Administrative Support
-Please contact our lab manager, <a href="mailto:Clif.Duhn@ucsf.edu">Clif Duhn</a>.
+<!-- ## Administrative Support
+Please contact our lab manager, <a href="mailto:Clif.Duhn@ucsf.edu">Clif Duhn</a>. -->
 
 
 

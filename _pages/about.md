@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - About"
+title: "Wang Lab - About"
 layout: textlay
-excerpt: "Allan Lab -- About"
+excerpt: "Wang Lab -- About"
 sitemap: false
 permalink: /about/
 ---
