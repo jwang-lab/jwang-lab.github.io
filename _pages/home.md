@@ -44,7 +44,7 @@ We are grateful for funding from the [National Institute of Mental Health](https
 </figure> -->
 
 <figure class="third">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iupui_lockup_3_h.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iupui_lockup_3_h.png" style="width: 200px">
 </figure> -->
 
 

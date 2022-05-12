@@ -7,7 +7,7 @@ email:
 twitter:
 github: juexinwang
 scholar: iLn_jIIAAAAJ
-photo: juexinwang.jpg
+photo: juexinwang.png
 ---
 
 ### Overview

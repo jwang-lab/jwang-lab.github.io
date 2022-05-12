@@ -45,7 +45,7 @@ permalink: /team/
 
 ---
 
-## Trainee
+<!-- ## Trainee -->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ permalink: /team/
 
 ---
 
-## Staff
+<!-- ## Staff -->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -111,7 +111,7 @@ permalink: /team/
 
 ---
 
-## PsychCore Genomics Core
+<!-- ## PsychCore Genomics Core -->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -144,7 +144,7 @@ permalink: /team/
 
 ---
 
-## Visiting Scholars
+<!-- ## Visiting Scholars -->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -177,7 +177,7 @@ permalink: /team/
 
 ---
 
-## Alumni
+<!-- ## Alumni -->
 
 {% for member in site.data.team_members %}
 {% if member.group == 8 %}
