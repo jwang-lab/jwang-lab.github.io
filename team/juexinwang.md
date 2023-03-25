@@ -17,4 +17,4 @@ Dr. Juexin Wang has a long-standing interest in studying machine learning algori
 - Research Scientist, Xu Lab and Joshi Lab, University of Missouri (2018-2022)
 - Postdoctoral Research Fellow, Xu Lab, University of Missouri (2016-2018)
 - PhD, Computer Science, Bioinformatics, Jilin University, China (2010-2016)
-- Bachelor of Computer Science and Technology, Jilin University, China (2005)
+- Bachelor of Computer Science and Technology, Beijing University of Technology, China (2005)
