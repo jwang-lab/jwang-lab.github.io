@@ -13,7 +13,7 @@ permalink: /
 
 
 The Wang Lab aims to discovering and mining rules or mechanisms behind biological and biomedical data, supporting disclosing the mystery of life, cell development, and human diseases. The current research is mainly dedicated to 
-to deep learning modeling and algorithm development on emerging 3D imaging and single-cell spatial multi-omics data to explore fundamental biological and biomedical problems, especially in neural science diseases.
+to deep learning modeling and algorithm development on emerging 3D imaging and single-cell spatial multi-omics data to explore fundamental biological and biomedical problems, especially in kidney diseases, cancer, and neural science diseases.
 
 
 There are three main areas of research:
