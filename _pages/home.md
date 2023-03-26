@@ -18,7 +18,7 @@ to deep learning modeling and algorithm development on emerging 3D imaging and s
 
 There are three main areas of research:
 
-1. **Deep learning approaches in modeling single-cell and spatial transcriptomics**: Developing noval deep learning algorithms for neural diseases using single cell multiomics and spatial transcriptomics
+1. **Deep learning approaches in modeling single-cell and spatial transcriptomics**: Developing noval deep learning algorithms for biological questions using single cell multiomics and spatial transcriptomics
 2. **Machine learning approaches and applications in molecular dynamics**: Using graph neural networks and related computational approaches for molecular dynamics studies
 3. **Software and webserver development**: Developing bioinformatic software and webserver for biological researchers
 
