@@ -12,7 +12,7 @@ Thank you for your interest in joining the Wang Lab.
 
 ## Graduate students
 
-Dr. Wang is recruiting self-motivated Bioinformatics PhD students in [BioHealth Informatics graduate degree program](hhttps://soic.iupui.edu/biohealth/graduate/admissions/).  
+Dr. Wang is recruiting self-motivated PhD students with passions and would like to pursing excellence in [Bioinformatics program](https://luddy.indianapolis.iu.edu/admissions/graduate/phd.html).  
 
 If you are interested, please contact Dr. Wang directly.
 
