@@ -10,7 +10,7 @@ permalink: /research/
 
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/TrimNN.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
 ## Cellular community motifs in spatial omics
 <div style="text-align: justify">
@@ -22,7 +22,7 @@ The spatial organization of cells plays a pivotal role in shaping tissue functio
 
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/BSP.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
 ## Spatially variable features identification in spatial omics
 <div style="text-align: justify">
@@ -35,7 +35,7 @@ Identifying spatially variable genes (SVGs) is critical in linking molecular cel
 
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/scGNN.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
 ## Graph deep learning approaches modeling single-cell RNA-seq data
 <div style="text-align: justify">
@@ -45,7 +45,7 @@ Single-cell RNA-sequencing (scRNA-Seq) is widely used to reveal the heterogeneit
 ---- 
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/scn2aMut.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/NRI.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
 ## Machine learning approaches and applications in molecular dynamics
 <div style="text-align: justify">
