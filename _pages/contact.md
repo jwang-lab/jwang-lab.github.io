@@ -16,6 +16,8 @@ Wang Lab is in ICTC building of the IU Indianapolis Campus ([Google Map](https:/
 Indianapolis
 IN 46202
 
+Email: wangjuex(at)iu.edu
+
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px"> -->
 
 
