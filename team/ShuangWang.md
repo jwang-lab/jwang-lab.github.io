@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Shuang Wang
-position: PhDstudent
+position: PhD student
 handle: ShuangWang
 email: 
 twitter:
