@@ -1,25 +1,24 @@
 ---
 title: "Wang Lab - Home"
 layout: homelay
-excerpt: "Wang Lab at IUPUI."
+excerpt: "Wang Lab at IU Indianapolis."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Wang Lab at IUPUI
+# Welcome to Wang Lab at IU Indianapolis
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Logo_wanglab.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
-The Wang Lab aims to discovering and mining rules or mechanisms behind biological and biomedical data, supporting disclosing the mystery of life, cell development, and human diseases. The current research is mainly dedicated to 
-to deep learning modeling and algorithm development on emerging 3D imaging and single-cell spatial multi-omics data to explore fundamental biological and biomedical problems, especially in kidney diseases, cancer, and neural science diseases.
+The Wang Lab aims to quantitatively explore the relationship between cell organization structure and function in complex biological systems, and develop corresponding computational models in translational medicine, including kidney disease, liver disease, neurological disorders, cancer, organoid development, and optical psychological research.
 
 
 There are three main areas of research:
 
-1. **Deep learning approaches in modeling single-cell and spatial transcriptomics**: Developing noval deep learning algorithms for biological questions using single cell multiomics and spatial transcriptomics
-2. **Machine learning approaches and applications in molecular dynamics**: Using graph neural networks and related computational approaches for molecular dynamics studies
+1. **Deep learning and machine learning approaches in modeling single-cell and spatial transcriptomics**: Developing noval deep learning algorithms for biological questions using single cell multiomics and spatial transcriptomics
+2. **Data analysis and applications in biological discovery**: Using machine learning and related computational approaches for data analysis in diverse biological discoveries 
 3. **Software and webserver development**: Developing bioinformatic software and webserver for biological researchers
 
 <!-- Word Cloud: wordclouds.com -->
