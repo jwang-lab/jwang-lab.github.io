@@ -10,7 +10,7 @@ permalink: /contact/
 
 ## Lab Location
 
-Wang Lab is in ICTC building of the IUPUI Campus ([Google Map](https://goo.gl/maps/cnWMMXWiBzjJUmk99)):
+Wang Lab is in ICTC building of the IU Indianapolis Campus ([Google Map](https://goo.gl/maps/cnWMMXWiBzjJUmk99)):
 
 535 W Michigan St
 Indianapolis
