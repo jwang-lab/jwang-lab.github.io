@@ -6,8 +6,8 @@ handle: juexinwang
 email: 
 twitter:
 github: 
-scholar: iLn_jIIAAAAJ
-photo: juexinwang.png
+scholar: 
+photo: 
 ---
 
 ### Overview
