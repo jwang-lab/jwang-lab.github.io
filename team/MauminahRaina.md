@@ -1,8 +1,8 @@
 ---
 layout: member
-title: MauminahRaina
+title: Mauminah Raina
 position: PhD student
-handle: juexinwang
+handle: MauminahRaina
 email: 
 twitter:
 github: 
