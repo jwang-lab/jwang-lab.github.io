@@ -33,9 +33,10 @@ We work with closely with numerous collaborators, including the [State Lab](http
 ### Joining Wang Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
-<!-- ### Funding
-We are grateful for funding from the [National Institute of Mental Health](https://www.nimh.nih.gov/) and the [The Simons Foundation Autism Research Initiative](https://www.sfari.org/), the [Autism Science Foundation](https://autismsciencefoundation.org/), and the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/).
+### Funding
+We are grateful for funding from the [National Institute of Health](https://www.nih.gov/).
 
+<!--
 <figure class="third">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px">
 
