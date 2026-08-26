@@ -3,7 +3,7 @@ layout: member
 title: Juexin Wang
 position: Principal Investigator
 handle: juexinwang
-email: wangjuex
+email: wangjuex@iu.edu
 twitter:
 github: juexinwang
 scholar: iLn_jIIAAAAJ
