@@ -1,6 +1,6 @@
 ---
 layout: member
-title: yuzhong
+title: Yu Zhong
 position: PhD student
 handle: yuzhong
 email: 
