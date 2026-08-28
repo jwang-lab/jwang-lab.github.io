@@ -1,8 +1,8 @@
 ---
 layout: member
-title: YuZhong
+title: Yu Zhong
 position: PhD student
-handle: YuZhong
+handle: yuzhong
 email: 
 twitter:
 github: 
