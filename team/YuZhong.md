@@ -7,7 +7,7 @@ email:
 twitter:
 github: 
 scholar: 
-photo: YuZhong.jpeg
+photo: YuZhong.jpg
 ---
 
 ### Overview
